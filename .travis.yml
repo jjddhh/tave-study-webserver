@@ -1,4 +1,4 @@
-#ec2 태그변경
+#재시도
 language: java
 jdk:
   - openjdk8
